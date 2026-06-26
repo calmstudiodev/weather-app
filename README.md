@@ -17,3 +17,7 @@
  -CSS3
  -JavaScript
  -OpenWeather API
+
+ ##Live Demo
+ Click here to try:
+https://calmstudiodev.github.io/weather-app
