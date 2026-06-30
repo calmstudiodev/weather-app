@@ -13,13 +13,15 @@
         <h1>Weather App</h1>
 
         <input type="text" id="locationInput" placeholder="Enter a city">
+        
 
         <button id="searchButton">Search</button>
 
         <div class="weather-info">
-            <img id="weatherIcon" src="" alt="">
+            <img id="weatherIcon" src="" alt="Weather Icon">
 
             <h2 id="location"></h2>
+            <p id="country"></p>
             <p id="temperature"></p>
             <p id="feelsLike"></p>
             <p id="description"></p>
@@ -37,6 +39,35 @@
                     <p id="wind"></p>
                     <span>Wind Speed</span>
                 </div>
+
+                <div class="detail-box">
+                    <p id="pressure">--hPa</p>
+                    <span>Pressure</span>
+                </div>
+
+                <div class="detail-box">
+                    <p id="visibility">--km</p>
+                    <span>visibility</span>
+                </div>
+
+                <div class="detail-box">
+                    <p id="sunrise">--:--</p>
+                    <span>Sunrise</span>
+                </div>
+
+                <div class="detail-box">
+                    <p id="sunset"></p>
+                    <span>Sunset</span>
+            </div>
+
+            <div class="detail-box">
+                <p id="tempMax"></p>
+                <span>Max Temp</span>
+            </div>
+
+            <div class="detail-box">
+                <p id="tempMin"></p>
+                <span>Min Temp</span>
             </div>
         </div>
     </div>
