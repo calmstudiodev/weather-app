@@ -5,11 +5,17 @@
  -Search weather by city
  -Real time weather data
  -Dynamic weather backgrounds
+ -Weather condition icons
  -Temperature
  -Feels like temperature
  -Humidity
  -Wind speed
- -Local Time
+ -Atmospheric pressure
+ -Visibility
+ -Sunrise & Sunset time
+ -Max & Min temperature
+ -Local city time
+ -Country detection
  -Responsive design
 
  ##Technologies
