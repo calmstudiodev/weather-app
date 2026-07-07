@@ -27,3 +27,17 @@
  ##Live Demo
  Click here to try:
 https://calmstudiodev.github.io/weather-app
+
+## Screenshots
+
+### Clear Sky
+![Clear Sky](clear-sky.png)
+
+### Cloudy
+![Cloudy](cloudy.png)
+
+### Rain
+![Rain](rain.png)
+
+### Cold Weather
+![Cold Weather](cold.png)
